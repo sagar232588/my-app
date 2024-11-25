@@ -1,4 +1,4 @@
-/* Contact Form Container */
+
 .formContainer {
     max-width: 600px;
     margin: 0 auto;
@@ -8,20 +8,20 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
   
-  /* Form Styling */
+ 
   .form {
     display: flex;
     flex-direction: column;
     gap: 20px;
   }
-  
-  /* Label Styling */
+
+
   .label {
     font-size: 1.1em;
     color: #333;
   }
   
-  /* Input and Textarea Styling */
+  
   .input,
   .textarea {
     padding: 10px;
@@ -33,7 +33,7 @@
     box-sizing: border-box;
   }
   
-  /* Button Styling */
+
   .button {
     padding: 12px;
     background-color: #4CAF50;
@@ -48,11 +48,11 @@
     background-color: #45a049;
   }
   
-  /* Status Message Styling */
+ 
   .statusMessage {
     margin-top: 20px;
     font-size: 1.1em;
-    color: #ff6347; /* Red for error or success messages */
+    color: #ff6347; 
     text-align: center;
   }
   
