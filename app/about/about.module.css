@@ -1,0 +1,39 @@
+.container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    background-color: #f9f9f9;
+    color: #333;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 40px auto;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  .subtitle {
+    font-size: 1.8rem;
+    color: #34495e;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .list {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .link {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
